@@ -19,9 +19,11 @@
     background-image: url("./../images/bg-2.png");
     background-position: center;
     background-repeat: no-repeat;
-}
-.smartphone{
     margin-bottom: 50px;
+}
+.container{
+
+    margin-bottom: 100px;
 }
 .section-title a{
     text-decoration: none;
@@ -34,4 +36,7 @@
 .card-border{
     box-shadow: 5px 5px 10px rgb(226, 226, 226);
     border: none;
+}
+.margin-class{
+    margin-bottom: 40px;
 }
